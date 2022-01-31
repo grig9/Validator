@@ -3,6 +3,7 @@
 // Как я хочу использовать класс.
   // $validator = new Validator();
   // $validator->метод(аргументы);
+  // $validatro->isEmail($str);
 // Создаю методы, которые принимают аргументы и возварщают true or false 
 
 class Validator 
